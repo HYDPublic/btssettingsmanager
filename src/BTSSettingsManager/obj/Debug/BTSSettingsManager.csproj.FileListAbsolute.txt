@@ -1,0 +1,9 @@
+C:\Users\wschneider\Desktop\BizTalkSettingsManager\BTSSettingsManager\obj\Debug\BTSSettingsManager.csprojResolveAssemblyReference.cache
+C:\Users\wschneider\Desktop\BizTalkSettingsManager\BTSSettingsManager\obj\Debug\BTSSettingsManager.Manager.resources
+C:\Users\wschneider\Desktop\BizTalkSettingsManager\BTSSettingsManager\obj\Debug\BTSSettingsManager.Properties.Resources.resources
+C:\Users\wschneider\Desktop\BizTalkSettingsManager\BTSSettingsManager\obj\Debug\BTSSettingsManager.csproj.GenerateResource.Cache
+C:\Users\wschneider\Desktop\BizTalkSettingsManager\BTSSettingsManager\bin\Debug\BTSSettingsManager.exe
+C:\Users\wschneider\Desktop\BizTalkSettingsManager\BTSSettingsManager\bin\Debug\BTSSettingsManager.pdb
+C:\Users\wschneider\Desktop\BizTalkSettingsManager\BTSSettingsManager\bin\Debug\Microsoft.EnterpriseSingleSignOn.Interop.dll
+C:\Users\wschneider\Desktop\BizTalkSettingsManager\BTSSettingsManager\obj\Debug\BTSSettingsManager.exe
+C:\Users\wschneider\Desktop\BizTalkSettingsManager\BTSSettingsManager\obj\Debug\BTSSettingsManager.pdb
